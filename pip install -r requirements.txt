@@ -1,0 +1,3 @@
+## Usage
+
+To create a video from text, run the following command:

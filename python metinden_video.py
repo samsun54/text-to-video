@@ -1,0 +1,1 @@
+Make sure you have `DejaVuSans.ttf` in the same directory as the script, or modify the script to point to a different font file.
